@@ -90,7 +90,7 @@
     "@nestjs/core": "8.2.6",
     "@nestjs/platform-express": "8.2.6",
     "@nuxtjs/opencollective": "0.3.2",
-    "chalk": "4.1.2",
+    "chalk": "5.0.0",
     "commander": "8.3.0",
     "compare-versions": "3.6.0",
     "concurrently": "6.5.1",
